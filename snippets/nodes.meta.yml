@@ -1658,12 +1658,27 @@ proxies:
         Gecko) Chrome/53.0.2785.143 Safari/537.36
     path: /
   xudp: true
-- name: 9|日本Hy2-3
+- name: '9|Channel id: @ShadowProxy66'
+  password: 0ru9pSW1LQuy1NHqFQFL0dZuxI
+  port: 14834
+  server: 13.231.128.194
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
+- name: 9|Hy2-3
   password: 1c473b13-502d-47eb-8cf8-70a38d56c5bd
   port: 443
   server: jp1.interld123456789.com
   skip-cert-verify: true
   sni: 1231231.1234567890spcloud.com
+  tls: false
+  type: hysteria2
+- name: '9|Channel id: @ShadowProxy66 #1'
+  password: 203d1d64-3313-11ed-bb74-f23c9164ca5d
+  port: 8443
+  server: 107.167.18.102
+  sni: 0e1462f1-sum4g0-t8ro7t-1ey07.hy2.gotochinatown.net
   tls: false
   type: hysteria2
 - name: '9|Channel id: @ShadowProxy66🇯🇵'
@@ -1738,7 +1753,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '9|Channel id: @ShadowProxy66'
+- name: '9|Channel id: @ShadowProxy66 #2'
   obfs: salamander
   obfs-password: KevinZakarian
   password: 6hDSryb2af
@@ -1846,7 +1861,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '9|Channel id: @ShadowProxy66 #1'
+- name: '9|Channel id: @ShadowProxy66 #3'
   password: cf125f42-759d-4112-82c3-014d2ffcb1e7
   port: 1443
   server: 185.85.242.177
@@ -2107,13 +2122,13 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 10|telegram  @v2rayNG_Matsuri
+- name: 10|️ @FreakConfig
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   port: 35000
   server: 206.71.158.40
-  skip-cert-verify: true
+  skip-cert-verify: false
   sni: pichondan.com
   tls: false
   type: hysteria2
@@ -2137,7 +2152,7 @@ proxies:
   sni: all-v4.dgi000.store
   tls: false
   type: hysteria2
-- name: 10|🇱telegram ➠ @v2rayNG_Matsuri
+- name: 10|🇱telegram  @v2rayNG_Matsuri
   password: AZrgUfcGknbd6Q6LHkzMT0ODVk
   port: 32089
   server: 43.199.72.130
@@ -2233,7 +2248,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 10|🇵🇾telegram ➠ @v2rayNG_Matsuri
+- name: '10|آلمان 🇩🇪 @V2xay #1'
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
